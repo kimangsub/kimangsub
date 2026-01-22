@@ -6,6 +6,7 @@
  - 결과도 중요하지만, 그 과정에서 얻는 경험과 성장이 더 중요하다고 생각합니다.</br>
  - 새로운 기술과 개념을 배우는 데 거부감이 없고, 직접 써보며 익히는 스타일입니다.</br>
  - 프론트엔드와 백엔드를 함께 이해하는 풀스택 시야를 기르기 위해 노력 중입니다.
+<br></br>
 
 ## 💌contact
  - **Email |** kimangsub@naver.com
@@ -29,5 +30,4 @@
 <br></br>
 **Collaboration**</br>
 <img  src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> 
-<br></br>
 <br></br>
